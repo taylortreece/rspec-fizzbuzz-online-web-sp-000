@@ -14,3 +14,5 @@ def fizzbuzz(int)
     nill
  end
 end
+
+fizzbuzz(3)
