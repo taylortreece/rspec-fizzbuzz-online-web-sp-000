@@ -9,5 +9,5 @@ def fizzbuzz(int)
     "Buzz"
   else
     nill
-    
+
 end
